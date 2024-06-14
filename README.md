@@ -24,10 +24,9 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript)](https://skillicons.dev)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryamshakeel22&show_icons=true&locale=en&layout=compact" alt="maryamshakeel22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryamshakeel22&show_icons=true&locale=en" alt="maryamshakeel22" /></p>
 
-![Maryam shakeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryamshakeel22&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamshakeel22&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryamshakeel22&" alt="maryamshakeel22" /></p>
 
