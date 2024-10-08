@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/FatimaNazeer777/FatimaNazeer777/94895102da96d7a5c323e9f1dee570a6c0ad9193/53371175-flat-designed-banner-for-web-development-with-long-shadows.jpg)
+![logo](https://cdn.sanity.io/images/tlr8oxjg/production/d2f16531bde974464ad7ab74dc335790dbdebffa-1192x668.png?w=3840&q=100&fit=clip&auto=format)
 
 -<h1 align="center">Hi 👋, I'm Maryam Shakeel</h1>
 
