@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on improving my skills in typescript
 - 🌱 I’m currently learning fronted developer
 - 💬 Ask me about (my education and skills background)
-- 📫 How to reach me: maryammalikawan5@gmail.com
+- 📫 How to reach me: maryammalikawan24@gmail.com
 - ⚡ Fun fact <b>Too Happy</b>😄⭐️
 - 👨‍💻 All of my projects are available at:(https://github.com/maryamshakeel22)
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamshakeel22&label=Profile%20views&color=0e75b6&style=flat" alt="maryamshakeel22" /> </p>
